@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetgdev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetgdev" /> </p>
 
-- 🔭 I’m currently working on **freelance projects**
-
-- 🌱 I’m currently learning **kotlin,java and mongodb**
+- 🔭 I’m currently working at **Gap Inc.**
 
 - 💬 Ask me about **android**
 
